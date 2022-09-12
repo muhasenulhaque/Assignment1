@@ -9,6 +9,7 @@ Stripe, Inc
 2010 (12 years ago)
 * Who are the founders of the company?
 ![Patrick_Collison.jpg](Patrick_Collison.jpg)
+<img src="Patrick_Collison.jpg" width="48">
 Patrick Collison (9th Sepetember 1988 age 34)*1 and John Collison (August 6, 1990)*2
 * How did the idea for the company (or project) come about?
 Patrik and John started a company named Shuppa and later Merged with Auctomatic, funded by Y combinator, that built tools for the eBay Platform. Automatic was also funded by Chris Sacca. The company was aquired for $5 million in 2008. Then he brother co-founded stripe which receveid backing from Elon Must, Peter Thiel, Max Levchin and Sequoia Capital 
