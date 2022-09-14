@@ -3,67 +3,56 @@
 
 ## Overview and Origin
 
-* What is the name of the company?
-Stripe, Inc, dual headquartered in Sanfrancisco, California, United States and Dublin, Ireland. It offers payment processing solution and application programming interfaces (APIs) for e-commerce websites and mobile application. 
-The company stated its operation in 2009. The two  John Collison and Patric Collision started the business.  with the support of PayPal co-founder Elon Musk and Irish entrepreneur LIam Casey. 
-* Who are the founders of the company?
+Stripe, Inc, dual headquartered in San Francisco, California, United States and Dublin, Ireland. It offers payment processing solution and application programming interfaces (APIs) for e-commerce websites and mobile application. 
+The company stated its operation in 2009. The two brothers John Collison and Patric Collision started the business.  with the support of PayPal co-founder Elon Musk and Irish entrepreneur Liam Casey. 
 <img src="Patrick_Collison.jpg" width="248">
-Patrick Collison (9th Sepetember 1988 age 34)*1 and 
+Patrick Collison (9th September 1988 age 34)*1 and 
 <img src="John Collison.jpg" width="218">
 John Collison (August 6, 1990)*2
-* How did the idea for the company (or project) come about?
-Patrik and John started a company named Shuppa and later Merged with Auctomatic, funded by Y combinator, that built tools for the eBay Platform. Automatic was also funded by Chris Sacca. The company was aquired for $5 million in 2008. Then he brother co-founded stripe which receveid backing from Elon Must, Peter Thiel, Max Levchin and Sequoia Capital 
-* How is the company funded? How much funding have they received?
-Inital funded was from the earlier start up sale of Shuppa which used to make tools for eBay. Got 20 rounds of funding. 
 
-## Business Activities
+### The Ideation of the Business
+Patrik and John started a company named Shuppa and later Merged with Auctomatic, funded by Y combinator, that built tools for the eBay Platform. Automatic was also funded by Chris Sacca. The company was acquired for $5 million in 2008. Since the brothers worked on the APIs for the e-bay, they came up with the idea of building API for the payment processing for the small businesses making them them global friendly. Then he brother co-founded stripe which received backing from Elon Must, Peter Thiel, Max Levchin and Sequoia Capital.
+#### Funding 
+Inital funded was from the earlier start up sale of Shuppa which used to make tools for eBay. The company got  20 rounds of funding. The last funding of $600 million was rasied in March 14, 2021 with a valuation of $95 billion US dollar. A seperate funding file is attached to show the history of funding. 
 
-* What specific financial problem is the company or project trying to solve?
+### Business Activities
 
 The company is providing API to accept payments, send payouts and manage their businesses online. In integrates the payment system with websites, accounting softwares, e-commerce platforms like amazon, ebay, etc.  
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Companies running business online. 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
-Easy intergration of the payment system with the website or ecommerce soulutions provider's like sopify or woocommerce. 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-Ruby, Python, PHP, Java, Node.js, Go and .net 
+### Exising customrs and Intended Customers
+Companies running business online are the primary target customers of the company offering cost effective rate and easy integration. 
+
+Easy intergration of the payment system with the website or ecommerce soulutions provider's like sopify or woocommerce. The founders have identifies two major areas where they want to compete with the competors in the market. 1. The global friendlyness for payments and 2. Friendlyness for the small businesses for the integration with their website or ecommerce site. It offers to integrate the payment system using 4 to 5 lines of code. The integration system team helps the businesses if required. 
+
+The languages that the company is using to build the techonology are Ruby, Python, PHP, Java, Node.js, Go and .net.  
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
-Fintech in the domain of Payment processing and payment gateway
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+The compnay is providing financial services as well as IT services for intergration of pyament system. Its in the Fintech domain of Payment processing and payment gateway.
 
-* What are the other major companies in this domain?
-Squre, Pay Junction, Paypal Braintree, Wepay, Durango, Adyen, 2checkouts
+### Major changes in the domain
+Integrating payment gateway with the website was a very difficult job 10 years earlier. With the spread of Pendamic the ncessity of quarentine and shopping online truned out to be a new trends in the many socities. Many compnies evolved to provide the solutions. Few major players turned out to be rescurer for the businesses. However, some kept the focus of single cutry, some were focused on large businesses. 
 
+#### Major Competitors in the Domain 
+Squre, Pay Junction, Paypal Braintree, Wepay, Durango, Adyen, 2checkouts are the major competitors offering the similar services like stries. 
 
 ## Results
 
-* What has been the business impact of this company so far?
-
 The company has processed more than $640 billion in payments in 2021. There was a major boost in the company business due to pendamic. The founders perception is that the world of online payment processing yet explored full potential because only 12% of global payment was done through online. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
 One of the main offerings of the company is easy to intall API which does not require engagement of programmer of webdeveloper. The woocommerce and sopify has the intgration API features availabel in their site for Stripe. 
 
 ## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 1. The copany can offer payroll software service and accounting software solutions. Currently the user of Stripe needs to use differnt accounting system to track their expenses. The integration can make the life of small businesses much easier. The necessity for the reconciliation of bank account, stripe accounts and accounting informaiton system would not loger be required if the accounting system and payroll system can be intergrated.  
 2. Payment processing of crypto currecy is not been introduced by the company. To integrate the payment processing through crypto currency will take the payment system into a next level. Currenly, the conventional payment system and crypto payment system are operating seperately. If the company can offer the solution under one umbralla the acceptable of the company will be much higher. 
 3. Providing working capital financing solutions can be another additional service for the company. With the integration of payroll and accounting system, the company can easily evaluate the credit worthiness of the business. It will be very easier for the company to assess the credit risk and offer attractive rate of interest based on the cash flow projections and planning. 
 
+The enhanced solutions will make the payment processing, recording transactions, reporting and predicting future transactions. Certain level of accuray with prediction will be able help businesses make precautions for any upcoming threats or risks. This will also build the ecosystem for the business allowing them easy financial solutions in certain situations to recover from disaster. 
 
-* Why do you think that offering this product or service would benefit the company?
-The small business need to acces to multiple paid services for their accounting and paryoll. Haiving this two services in one platform can make the life easy for the companies. 
-* What technologies would this additional product or service utilise?
+The company already uses python and the solutions can be developed using python. Python is very reputed for data science and machine learning on data. In todays world businesses want to rely on data driven decision to avoid human bias. 
 
-* Why are these technologies appropriate for your solution?
+The prediction on cash flow part with possible solutions on the working capital shortage can bring revolution in the lending industry and also for the small businesses. Small businesses often can not survive in the event of uncertainty. The solution can find out the business that has the potentiality to do better and protect them in the event of disaster.  
 
 
 References: 
@@ -76,4 +65,3 @@ References:
 7. https://www.youtube.com/watch?v=uWbj8QgEGcc - Programming language used for the stripe
 8. https://www.youtube.com/watch?v=QIP_VbeHOOM - Stripe competitors 
 9. https://stripe.com/au/pricing - stripe fee structure in Australia 
-9. 
