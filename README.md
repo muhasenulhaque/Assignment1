@@ -1,5 +1,5 @@
 # Assignment1
-# Title
+# Business Case Study on Stripe: Solution to Multicurrency Online Payment for Small to Large Scale Businesses with Easy integration
 
 ## Overview and Origin
 
@@ -9,8 +9,9 @@ Stripe, Inc
 2010 (12 years ago)
 * Who are the founders of the company?
 <img src="Patrick_Collison.jpg" width="248">
-<img src="John Collison.jpg" width="248">
-Patrick Collison (9th Sepetember 1988 age 34)*1 and John Collison (August 6, 1990)*2
+Patrick Collison (9th Sepetember 1988 age 34)*1 and 
+<img src="John Collison.jpg" width="218">
+John Collison (August 6, 1990)*2
 * How did the idea for the company (or project) come about?
 Patrik and John started a company named Shuppa and later Merged with Auctomatic, funded by Y combinator, that built tools for the eBay Platform. Automatic was also funded by Chris Sacca. The company was aquired for $5 million in 2008. Then he brother co-founded stripe which receveid backing from Elon Must, Peter Thiel, Max Levchin and Sequoia Capital 
 * How is the company funded? How much funding have they received?
