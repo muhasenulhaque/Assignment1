@@ -7,7 +7,7 @@ Stripe, Inc, dual headquartered in San Francisco, California, United States and 
 The company stated its operation in 2009. The two brothers John Collison and Patric Collision started the business.  with the support of PayPal co-founder Elon Musk and Irish entrepreneur Liam Casey. 
 <img src="Patrick_Collison.jpg" width="248">
 Patrick Collison (9th September 1988 age 34)*1 and 
-<img src="John Collison.jpg" width="218">
+<img src="John Collison.jpg" width="188">
 John Collison (August 6, 1990)*2
 
 ### The Ideation of the Business
